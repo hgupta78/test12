@@ -1,0 +1,9 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "payrollsystem": "apps/payrollsystem",
+    "payrollsystem-e2e": "apps/payrollsystem-e2e",
+    "vizinfy-ui-cdk": "libs/vizinfy-ui-cdk"
+  }
+}
